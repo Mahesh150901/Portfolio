@@ -1,0 +1,8 @@
+{
+  "name": "White Theme",
+  "description": "Interactive glassmorphic creative developer portfolio for Mahesh Manikanta Kambhampati with custom interactive WebGL-style motion art, project showcase, experience timeline, skills visualizer, and live AI assistant chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
